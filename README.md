@@ -11,9 +11,9 @@ Test RL agent using PPO algorithm. The dataset and the features have been made f
  'Portfolio Value': 25238.19703065783,
  'Diff.': -314.8432290149831}
 
-
+<p align="center">
 <img src="https://github.com/dbeniteze/portfolio_optimization_RL_agent_openai_gym/blob/main/images/portfolio_value_time.png" width="320">
-
+</p>
 
 
 References:
